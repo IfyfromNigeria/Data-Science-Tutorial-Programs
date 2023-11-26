@@ -38,59 +38,59 @@ class Human:
 
 
 
-Leonard = Human(
-    firstname = "Leonard", 
-    lastname = "Onyiriuba", 
-    age = 25, 
-    phone_number = "09076488226", 
-    height = 6.1, 
+Ifunanya = Human(
+    firstname = "Ifunanya", 
+    lastname = "Akupuome", 
+    age = 24, 
+    phone_number = "09034522070", 
+    height = 5.5, 
     weight = 82, 
-    skin_color = "Black", 
+    skin_color = "Light-skinned", 
     eye_color = "Brown", 
-    hair_style = "Afari", 
-    body_build = "Obese", 
-    shoe_size = 46, 
-    fathers_name = "Leonard Snr", 
-    mothers_name = "Stella", 
-    gender = "Male")
+    hair_style = "Cornrows", 
+    body_build = "obese :)", 
+    shoe_size = 40, 
+    fathers_name = "Bartholomew", 
+    mothers_name = "Caroline", 
+    gender = "Female")
 
-Francis = Human(
-    firstname = "Francis", 
-    lastname = "Ndubeke", 
-    age = 19, 
-    phone_number = "09026498220", 
-    height = 5.1, 
-    weight = 92, 
-    skin_color = "Black and Yellow Mix", 
-    eye_color = "Blue", 
-    hair_style = "Dreads", 
-    body_build = "Obese", 
-    shoe_size = 32, 
-    fathers_name = "Edwin", 
-    mothers_name = "Cynthia", 
-    gender = "Male")
+Jennifer = Human(
+    firstname = "Jennifer", 
+    lastname = "Major", 
+    age = 28, 
+    phone_number = "09083903633", 
+    height = 5.7, 
+    weight = 70, 
+    skin_color = "Light-skinned", 
+    eye_color = "Hazel", 
+    hair_style = "Afro", 
+    body_build = "Slim", 
+    shoe_size = 44, 
+    fathers_name = "Captain", 
+    mothers_name = "Ruth", 
+    gender = "female")
         
 Vanessa = Human(
     firstname = "Vanessa", 
-    lastname = "Enimorie", 
+    lastname = "Shaka", 
     age = 25, 
-    phone_number = "09012580921", 
-    height = 6.9, 
-    weight = 62, 
-    skin_color = "Yellow", 
-    eye_color = "Green", 
-    hair_style = "Braids", 
-    body_build = "Skinny", 
-    shoe_size = 52, 
-    fathers_name = "Eddie", 
-    mothers_name = "Felicia", 
+    phone_number = "08109828582", 
+    height = 5.3, 
+    weight = 70, 
+    skin_color = "Black", 
+    eye_color = "Brown", 
+    hair_style = "Cornrows", 
+    body_build = "Mesomorph", 
+    shoe_size = 37, 
+    fathers_name = "Joseph", 
+    mothers_name = "Faith", 
     gender = "Female")   
   
     
 
 
-Leonard.make_friends("Vanessa")
-Leonard.make_friends("Henry")
+Ifunanya.make_friends("Jennifer")
+Ifunanya.make_friends("Henry")
 
 
 
